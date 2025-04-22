@@ -32,7 +32,7 @@ function NEWS_left({ className = "" , newsId}) {
               alt=""
               className="news-icon"
               loading="lazy"
-              src="/vector-5.svg"
+              src="/zeitgeist/vector-5.svg"
           />
       </div>
   );

@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { OrbitControls } from '@react-three/drei';
 
 function CustomModel() {
-  const gltf = useLoader(GLTFLoader, '/models/magazine/scene.gltf');
+  const gltf = useLoader(GLTFLoader, '/zeitgeist/models/magazine/scene.gltf');
   
   return (
     <primitive 

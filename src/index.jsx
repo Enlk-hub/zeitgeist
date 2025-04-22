@@ -8,7 +8,7 @@ import "./global.css";
 // Создаем маршруты
 const router = createBrowserRouter([
   {
-    path: "/*", // Используем "/*" для обработки всех путей внутри App
+    path: "/zeitgeist/*", // Используем "/*" для обработки всех путей внутри App
     element: <App />,
   },
 ], {

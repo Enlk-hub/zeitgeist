@@ -50,22 +50,22 @@ function Desktop() {
             className="mySwiper"
           >
             <SwiperSlide>
-              <a href="https://www.bbc.com"><img style={{ width: "150px", marginTop: "-30px" }} src="../../../public/bbc_news_logo.png" className="slider-el" alt="" /></a>
+              <a href="https://www.bbc.com"><img style={{ width: "150px", marginTop: "-30px" }} src="/zeitgeist/bbc_news_logo.png" className="slider-el" alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-              <a href="https://www.cnn.com"><img style={{ width: "140px" }} src="../../../public/CNN_Logo.png" className="slider-el" alt="" /></a>
+              <a href="https://www.cnn.com"><img style={{ width: "140px" }} src="/zeitgeist/CNN_Logo.png" className="slider-el" alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-              <img style={{ width: "220px", marginTop: "-20px" }} src="../../../public/The-New-York-Times.png" className="slider-el" alt="" />
+              <img style={{ width: "220px", marginTop: "-20px" }} src="/zeitgeist/The-New-York-Times.png" className="slider-el" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-              <a className="slider-el" href="https://www.bloomberg.com/"><img style={{ width: "180px", marginTop: "-20px" }} src="../../../public/Bloomberg-Logo.png" className="slider-el" alt="" /></a>
+              <a className="slider-el" href="https://www.bloomberg.com/"><img style={{ width: "180px", marginTop: "-20px" }} src="/zeitgeist/Bloomberg-Logo.png" className="slider-el" alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-              <a href="https://www.forbes.com/"><img style={{ width: "120px", marginTop: "-22px" }} src="../../../public/forbes.png" className="slider-el" alt="" /></a>
+              <a href="https://www.forbes.com/"><img style={{ width: "120px", marginTop: "-22px" }} src="/zeitgeist/forbes.png" className="slider-el" alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-              <a href="https://tengrinews.kz/"><img style={{ width: "210px", marginTop: "22px" }} src="../../../public/Tengrinews-logo.png" className="slider-el" alt="" /></a>
+              <a href="https://tengrinews.kz/"><img style={{ width: "210px", marginTop: "22px" }} src="/zeitgeist/Tengrinews-logo.png" className="slider-el" alt="" /></a>
             </SwiperSlide>
           </Swiper>
 

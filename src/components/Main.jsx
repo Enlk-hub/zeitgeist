@@ -14,7 +14,7 @@ function Main({ className = "", newsId}) {
           <img
               alt=""
               className="main-article-background"
-              src="/main-article-background.svg"
+              src="/zeitgeist/main-article-background.svg"
           />
 
           <div className="main-article-image" style={{backgroundImage: `url(${newsItem.image})`}} />
@@ -27,7 +27,7 @@ function Main({ className = "", newsId}) {
                               alt=""
                               className="title-icon"
                               loading="lazy"
-                              src="/vector-1.svg"
+                              src="/zeitgeist/vector-1.svg"
                           />
 
                           <h2 className="israel-the">

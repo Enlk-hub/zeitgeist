@@ -49,7 +49,7 @@ function FrameComponent({ className = "", newsId}) {
                   alt=""
                   className="second-nested-news-item"
                   loading="lazy"
-                  src="/vector-16.svg"
+                  src="/zeitgeist/vector-16.svg"
               />
           </div>
 
@@ -89,7 +89,7 @@ function FrameComponent({ className = "", newsId}) {
                       alt=""
                       className="second-nested-news-item"
                       loading="lazy"
-                      src="/vector-16.svg"
+                      src="/zeitgeist/vector-16.svg"
                   />
               </div>
           </div>
@@ -129,7 +129,7 @@ function FrameComponent({ className = "", newsId}) {
                   alt=""
                   className="second-nested-news-item"
                   loading="lazy"
-                  src="/vector-16.svg"
+                  src="/zeitgeist/vector-16.svg"
               />
 
               <div className="second-nested-news-details-wrapper">

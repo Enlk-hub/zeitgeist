@@ -23,7 +23,7 @@ function Header({ className = "", property1 = "Default" }) {
         alt=""
         className="background-shape-icon"
         loading="lazy"
-        src="/vector-4.svg"
+        src="/zeitgeist/vector-4.svg"
       />
     </header>
   );

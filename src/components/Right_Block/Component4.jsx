@@ -14,7 +14,7 @@ function Component4({ className = "" , newsId}) {
               alt=""
               className="featured-image-icon"
               loading="lazy"
-              src="/vector-9.svg"
+              src="/zeitgeist/vector-9.svg"
           />
 
           <div className="featured-content">
@@ -32,7 +32,7 @@ function Component4({ className = "" , newsId}) {
                                   <img
                                       alt=""
                                       className="small-image-icon"
-                                      src="/vector-1-1.svg"
+                                      src="/zeitgeist/vector-1-1.svg"
                                   />
                               </div>
                           </div>

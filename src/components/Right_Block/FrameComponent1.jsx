@@ -70,7 +70,7 @@ function FrameComponent1({ className = "" }) {
                   <img
                       alt=""
                       className="side-news-icon"
-                      src="/vector-5.svg"
+                      src="/zeitgeist/vector-5.svg"
                   />
               </div>
 

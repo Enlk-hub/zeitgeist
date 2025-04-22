@@ -24,7 +24,7 @@ function App() {
     let metaDescription = "";
 
     switch (pathname) {
-      case "/":
+      case "/zeitgeist/":
         title = "";
         metaDescription = "";
         break;

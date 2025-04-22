@@ -32,7 +32,7 @@ function Kurs({ className = "", property1 = "Default" }) {
         alt=""
         className="listen-icon"
         loading="lazy"
-        src="/vector-3.svg"
+        src="/zeitgeist/vector-3.svg"
       />
     </div>
   );

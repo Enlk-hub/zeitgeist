@@ -26,7 +26,7 @@ export const NewsProvider = ({ children }) => {
           category: "POLITICS",
           title: "Economic reforms lead to market growth",
           description: "A detailed analysis of how recent economic reforms have positively impacted local markets and boosted financial growth",
-          audioUrl: "..\public\podcast\first.mp3",
+          audioUrl: "/zeitgeist/podcast/first.mp3",
           date: "March 28, 2025",
           duration: 180
         },
@@ -35,7 +35,7 @@ export const NewsProvider = ({ children }) => {
           category: "CULTURE",
           title: "Art exhibition draws record crowds",
           description: "The international art exhibition at the National Museum has broken all attendance records with its innovative displays",
-          audioUrl: "../public/audio/art-exhibition.mp3",
+          audioUrl: "/zeitgeist/audio/art-exhibition.mp3",
           date: "March 25, 2025",
           duration: 210
         }
